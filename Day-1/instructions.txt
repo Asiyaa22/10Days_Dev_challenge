@@ -1,0 +1,53 @@
+👉 Steps to Follow
+
+1. Start with Boilerplate Code
+
+▫ Begin by writing the standard boilerplate code for HTML and CSS.
+
+▫ Ensure the HTML document is properly structured with a <!DOCTYPE html>, <head>, and <body>.
+
+2. Define the Color Scheme
+
+▫ Background Color: #D7E1EF
+
+▫ Container Background: #FCFCFC
+
+▫ Card Background: #F1D6FC
+
+▫ Primary Text Color: #252C46
+
+▫ Secondary Text Color: rgb(90, 86, 86)
+
+3. Set Up the Font Family
+
+▫ Use the following font stack:
+
+▫ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+4. Apply Layout Techniques
+
+▫ Use display: flex to center elements vertically and horizontally.
+
+▫ Utilize flex-direction and justify-content for responsive design.
+
+5. Style the Components
+
+👉 Container
+
+▫ Centered using flexbox
+
+▫ Rounded corners for a modern look
+
+▫ Padding for proper spacing
+
+👉 Card
+
+▫ Fixed width and height
+
+▫ Flexbox for content centering
+
+👉 Text
+
+▫ Proper font size for readability (1.7em for headings, 1.5em for paragraphs)
+
+▫ Ensure text is aligned center
