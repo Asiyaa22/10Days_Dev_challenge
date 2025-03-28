@@ -1,0 +1,39 @@
+🛠️ Steps to Follow to Build the Share Modal UI
+1️⃣ Setup Your Project
+📌 Create a new folder for your project.
+
+📌 Inside the folder, create two files:
+
+▫ index.html (for structure)
+
+▫ style.css (for styling)
+
+2️⃣ HTML Structure (index.html)
+📌 Create a <div> container for the modal (popup).
+
+📌 Inside the modal:
+
+▫ A title: "Share this challenge"
+
+▫ Six share buttons (Chat, Telegram, Twitter, WhatsApp, Email, More).
+
+▫ A copyable link input field with a button.
+
+3️⃣ CSS Styling (style.css)
+📌 Use flexbox for proper layout alignment.
+
+📌 Apply border-radius to create rounded corners for the modal and buttons.
+
+📌 Add box-shadow to give a modern floating effect.
+
+📌 Colors:
+
+▫ Body background:rgb(228, 237, 247) (light bluish)
+
+▫ Modal background: rgba(255, 255, 255, 0.8) (semi-transparent white)
+
+▫ Copyable link section background: #FFFFFF (pure white)
+
+▫ Button hover effect: Light shadow with scaling effect
+
+▫ Text color #486282
