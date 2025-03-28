@@ -1,0 +1,40 @@
+👉 Steps to Follow
+1. Setup Your Project
+
+▫ Create a new folder for your project.
+
+▫ Inside the folder, create two files:
+
+▫ index.html (for the structure)
+
+▫ style.css (for styling)
+
+2. HTML Structure (index.html)
+
+▫ Use a <div> container for the card.
+
+Inside the card:
+
+▫ An image section for the shoe.
+
+▫ A product title.
+
+▫ A price with highlighted styling.
+
+▫ An icon (shopping bag) for adding to cart.
+
+3. CSS Styling (style.css)
+
+▫ Use flexbox for layout.
+
+▫ Apply border-radius to create rounded corners.
+
+▫ Add box-shadow for the card effect.
+
+▫ Background-color for body is #D7E2F0
+
+▫ Background-color for card is #FDFDFD
+
+▫ color of price is #116FDF
+
+
