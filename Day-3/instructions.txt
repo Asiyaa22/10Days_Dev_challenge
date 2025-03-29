@@ -37,3 +37,29 @@
 ▫ Button hover effect: Light shadow with scaling effect
 
 ▫ Text color #486282
+
+🎨 How to Add Remix Icons to Your HTML & CSS Project
+
+👉 Step 1: Add the Remix Icons CDN
+
+▫ Open your HTML file (e.g., index.html).
+
+▫ Inside the <head> section, add the following line:
+
+<link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
+
+✅ This link loads the Remix Icons library into your project.
+
+👉 Step 2: Use an Icon in Your HTML
+
+▫ Go to google and search for Remix Icon website.
+
+▫ Choose an icon from the Remix Icons website.
+
+▫ Add the icon in your HTML file using the <i> tag.
+
+👉 Example:
+<i class="ri-home-line"></i>  <!-- Home Icon -->
+<i class="ri-user-fill"></i>  <!-- User Icon -->
+<i class="ri-heart-fill"></i>  <!-- Heart Icon -->
+✅ This will display the icons on your webpage.
