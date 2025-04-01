@@ -18,6 +18,10 @@
 
 ▫ Secondary Text Color: rgb(90, 86, 86)
 
+▫ Download button background color: #25D366
+
+▫ Whatsapp logo color  #25D366
+
 3. Set Up the Font Family
 
 ▫ Use a modern and readable font stack:
