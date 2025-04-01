@@ -38,6 +38,8 @@
 
 5. Style the Components
 
+💡 Icons from Remix website
+
 👉 Container
 
 ▫ Centered using flexbox for proper alignment.
