@@ -1,0 +1,3 @@
+1. Use font family sans-serif
+2. Use the background image on the body
+3. On hover, background color of button should change to rgba(255, 255, 255, 0.8)

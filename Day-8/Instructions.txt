@@ -1,0 +1,24 @@
+1. Use lorem ipsum filler text for description. Do not write it manually.
+2. Colors:
+👉 body background : #f9f9f9;
+👉 Resume background : white;
+👉 Blue color : #3498db;
+👉 Red color accent : #e74c3c;
+👉 header border bottom : #f0f0f0;
+👉 Background color of dates: rgba(52, 152, 219, 0.08);
+👉 Dates color: #7f8c8d;/
+👉 Subtitle color: #555;
+👉 Background color of skills: rgba(52, 152, 219, 0.1);
+3. box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+4. Reset margin, padding and box-sizing.
+5. Body :
+👉 font-family: 'Helvetica Neue', Arial, sans-serif;
+👉line-height: 1.6;
+👉color:#333;
+6. Resume :
+👉 The blue line on the left is made with the help of
+::before pseudo class and absolute position.
+👉The blue below each title is made with the help of
+::after pseudo class and absolute position.
+👉 letter spacing is used for "Your Name" and the titles 
+

@@ -1,0 +1,10 @@
+1. Reset padding, margins and box-sizing
+2. Apply Arial, sans-serif font family
+3. Body background-color: #f7f7f7;
+4. container background-color: #ffffff
+5. Add box shadow to the container to give some depth
+6. Button blue color #4a90e2;
+7. All the three tasks must have a border 1px solid #eee; except the last
+8. Strike through task color is #999;
+9. Button red color is #ff6b6b;
+10. Active and comppleted buttons background color is #f1f1f1; and border color is 1px solid #ddd;
