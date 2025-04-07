@@ -1,0 +1,18 @@
+Colors
+1. Light grey for body is #f0f2f5;
+2. White for pricing container #fff;
+3. Dark grey color for h1 "Our Pricing" #212529
+4. Lightgrey for toggle labels "monthly" and "annually" #6c757d
+5. Light grey toggle slider background color #ced4da4;
+6. Purple color for professional is #6f42c1;
+7. Blue color for basic is #007bff;
+8. Green color for master is #28a745;
+9. Light grey border for pricing cards is 1px solid #dee2e6;
+10. Light grey for list items inside pricing card #6c757d;
+11. Light grey background color for professional plan is #e9ecef;
+
+General Instructions
+
+1. Use font family sans-serif;
+2. Set min-height of the body to 100vh;
+
